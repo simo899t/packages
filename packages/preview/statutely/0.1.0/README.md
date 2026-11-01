@@ -43,3 +43,7 @@ The board consists of 5 members.
 | `==` | N.M | Numbered sub-clause (heading text optional). |
 | `#sub[…]` | (2) … | Auto-numbered subsection paragraph within a clause. |
 | `#stk[…]` | _Stk. 2._ …| Danish alternative to `#sub` (stykke). |
+
+## Examples
+
+- [Example statutes](https://github.com/simo899t/statutely/blob/master/examples/example.typ)

@@ -1,4 +1,4 @@
-#import "../lib.typ": *
+#import "@preview/statutely:0.1.0": *
 #show: statutes.with(organisation: "Example Student Association", updated: "April 2026", lang: "en")
 
 = Name and Domicile
@@ -28,7 +28,7 @@ The agenda shall at minimum include:
 
 #pagebreak()
 
-#import "../lib.typ": *
+#import "@preview/statutely:0.1.0": *
 #show: statutes.with(organisation: "The Empire", updated: "April 2026", lang: "en")
 
 = Name                        // §1 Name
