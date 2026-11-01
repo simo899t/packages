@@ -1,4 +1,4 @@
-#import "../lib.typ": *
+#import "@preview/minutely:0.1.0": *
 
 #let WT = "W. Tarkin"
 #let FP = "F. Piett"

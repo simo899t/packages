@@ -69,4 +69,9 @@ Typst template for meeting minutes and agendas (Danish/English).
 | `amendment` | `no`, `before`, `after`, body | Amendment block with optional before/after text. |
 | `next-meeting` | `date`, `time`, `location`, `note` | "Next meeting" section. |
 
-Statutes / vedtægter live in the separate package [statutely](../statutely).
+Statutes / vedtægter live in the separate package [statutely](https://github.com/simo899t/statutely).
+
+## Examples
+
+- [Danish example](https://github.com/simo899t/minutely/blob/master/examples/example.typ)
+- [English example](https://github.com/simo899t/minutely/blob/master/examples/example-en.typ)

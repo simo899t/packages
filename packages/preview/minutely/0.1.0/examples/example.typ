@@ -1,4 +1,4 @@
-#import "../lib.typ": *
+#import "@preview/minutely:0.1.0": *
 #show: meeting.with(
   title: "Minutes of bestyrelsesmøde in Foreningen",
   date: datetime(year: 2026, month: 3, day: 12),
